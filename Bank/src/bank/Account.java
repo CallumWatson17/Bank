@@ -37,7 +37,9 @@ public class Account {
 		return totalBalance;
 	}
 	
-	HELLOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+	public void credit(double amount) {
+		setTotalBalance(getTotalBalance() + amount);
+	}
 	
 
 }
