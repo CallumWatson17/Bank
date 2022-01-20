@@ -31,6 +31,9 @@ public class Account {
 	}
 	
 	public double getTotalBalance() {
+		
+		
+		
 		return totalBalance;
 	}
 	
