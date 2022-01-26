@@ -82,7 +82,7 @@ public class Account {
 	}
 	
 	public void setAvailableBalance(double availableBalance) {
-		this.avaialableBalance = availableBalance;
+		this.availableBalance = availableBalance;
 	}
 	
 	public void setTotalBalance(double totalBalance) {
